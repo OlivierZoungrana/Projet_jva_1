@@ -8,7 +8,7 @@ public class DAOContext {
 	
 	static String db_url = "jdbc:mysql://localhost:3306/testjdbc";
 	static String db_username= "root";
-	static String db_password= "Amour1988";
+	static String db_password= "######";
 	
 	
 	
