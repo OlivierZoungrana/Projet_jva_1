@@ -19,7 +19,7 @@
   
   <context-param>
   <param-name>JDBC_PASSWORD</param-name>
-  <param-value>Amour1988</param-value>
+  <param-value>#####</param-value>
   </context-param>
   
   <session-config>
